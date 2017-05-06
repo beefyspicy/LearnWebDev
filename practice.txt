@@ -1,0 +1,149 @@
+Learning Web Dev
+
+/////////////////////////////////////////////
+
+<!doctype html>
+
+<html>
+
+<head>
+<title> Slippery Bois </title>
+</head>
+
+<body>
+
+<h1>Slippery Bois</h1>
+<hr />
+
+<br />
+<br />
+
+<table border="1">
+	<tr>
+		<th colspan="2"><h3>Links</h3></th>
+	</tr>
+	<tr>
+		<th>Internal</th>
+		<th>External</th>
+	</tr>
+	<tr>
+		<td><a href="awat.html" title="clik it">memes</a></td>
+		<td><a href="http://amazon.com" title="go shoppin">Amazon</a></td>
+	</tr>
+</table>
+
+</body>
+
+</html>
+
+
+
+//////////////////////////////////////////////////////////
+
+
+
+<!doctype html>
+
+<html>
+
+<head>
+<title> Slippery Bois </title>
+</head>
+
+<body>
+
+<h1>Slippery Bois</h1>
+<hr />
+
+<br />
+<br />
+
+<table border="1" width="100%">       <!-- the 100% makes the table dynamic. if it was just 75, it would be 75 pixels -->
+	<tr>
+		<th>Internal</th>
+		<th>External</th>
+	</tr>
+	<tr>
+		<td><a href="awat.html" title="clik it">memes bois 4 the bois</a></td>
+		<td><a href="http://amazon.com" title="go shoppin">Amazon for eal tho r u k</a></td>
+	</tr>
+</table>
+
+</body>
+
+</html>
+
+
+////////////////////////////////////////
+home.html
+///
+
+<!doctype html>
+
+<html>
+
+<head>
+<title> Slippery Bois </title>
+</head>
+	<style type ="text/css">
+		body {color:#f2b4f7;font-family:arial;}
+		p {line-height:170%;}
+	</style
+<body>
+
+<h1>Slippery Bois</h1>
+<hr />
+
+<br />
+<br />
+
+<table border="1" width="169" cellpadding="10">
+	<tr colspan="1">
+		<th>Links</th>
+	</tr>
+	<tr>
+		<td><a href="awat.html" title="clik it">memes</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://amazon.com" title="go shoppin">amazon</a></td>
+	</tr>
+</table>
+
+<p>
+welcome to slippy boys where all the my guys come togethr and<br />
+sacrifice their youngest meme to become a based god. without<br />
+these bois we would all b two got ems away from movin too quick.
+</p>
+
+
+</body>
+
+</html>
+
+//////////////////////////////////////////
+awat.html
+///
+
+
+<!doctype html>
+
+<html>
+
+<head>
+	<style type="text/css">
+		body {color:#38f7e4;font-family:arial;}
+	</style>
+<title> Meme World </title>
+</head>
+
+<body>
+<h1>Meme World</h1>
+<hr />
+Links:
+<a href="home.html">Home</a>
+<br />
+<br />
+<img src="78QmsVG.png"/>
+</body>
+
+</html>
